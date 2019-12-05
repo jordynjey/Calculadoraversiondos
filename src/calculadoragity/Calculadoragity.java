@@ -23,5 +23,8 @@ public class Calculadoragity {
         int sum=a+b;
         return sum;
     }
-    
+    public static int resta(int a, int b){
+        int ret=a-b;
+        return ret;  
+    }
 }
